@@ -1,0 +1,13 @@
+Mô hình : LSI (Latent Semantic Indexing)
+Yêu cầu : giải thích bằng tiếng việt, chỉ dùng code là tiếng anh
+1) Giới thiệu mô hình: phương pháp biễu diễn tài liệu và truy vấn, nguyên tắc tính toán độ liên quan để xếp hạng.
+
+2) Chọn term: term được chọn là gì, ví dụ minh họa? phương pháp xác định term, ví dụ minh họa? 
+
+3) Công thức tính trọng số term: Công thức gì? các thành phần của công thức? 
+
+4) Lập chỉ mục: cấu trúc chỉ mục, quá trình xử lý tài liệu để lập chỉ mục. 
+
+5) Xử lý truy vấn: phân tích truy vấn, quá trình tính toán độ tương đồng giữa tài liệu và truy vấn 
+
+6) Đánh giá mô hình trên ngữ liệu Cranfield theo các độ đo P, R và MAP nội suy 11 điểm của TREC.

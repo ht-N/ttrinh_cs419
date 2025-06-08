@@ -1,5 +1,5 @@
 import bm25
-import vsm
+import vsm.vsm as vsm
 import numpy as np
 
 def print_results(model_name, results):
